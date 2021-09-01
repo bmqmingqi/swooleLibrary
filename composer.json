@@ -1,0 +1,19 @@
+{
+    "name": "jingsocial/swoole-library",
+    "authors": [
+        {
+            "name": "sky",
+            "email": "mingqi.bai@jingdigital.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "swooleLibrary\\": "src"
+        }
+    },
+    "license": "MIT"
+}
